@@ -14,7 +14,7 @@ class Config(object):
     PORT = 8080
     DEBUG = True
 
-    DB config
+    #DB config
     DB_SERVER = os.environ['DB_SERVER']
     DB_USERNAME = os.environ['DB_USERNAME']
     DB_PASSWORD = os.environ['DB_PASSWORD']
